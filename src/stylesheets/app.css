@@ -1,0 +1,46 @@
+.notifywrapper {
+  padding: 10px;
+  text-align: center;
+  height: auto;
+  max-width: 170px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  min-width: 72px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  position: fixed;
+  margin: 5px;
+  z-index: 1050;
+  word-wrap: break-word; }
+  .notifywrapper__success {
+    color: #468847;
+    background-color: #DFF0D8;
+    border: #DFF0D8; }
+  .notifywrapper__info {
+    color: #3A87AD;
+    background-color: #D9EDF7;
+    border: #D9EDF7; }
+  .notifywrapper__warning {
+    color: #C09853;
+    background-color: #FCF8E3;
+    border: #FBEED5; }
+  .notifywrapper__error {
+    color: #B94A48;
+    background-color: #F2DEDE;
+    border: #F2DEDE; }
+  .notifywrapper__topright {
+    top: 10px;
+    right: 10px; }
+  .notifywrapper__bottomright {
+    bottom: 10px;
+    right: 10px; }
+  .notifywrapper__bottomleft {
+    bottom: 10px;
+    left: 10px; }
+  .notifywrapper__topleft {
+    top: 10px;
+    left: 10px; }
+  .notifywrapper__none {
+    display: none; }
+
+/*# sourceMappingURL=app.css.map */
