@@ -1,2 +1,2 @@
-import TextInput from "./component/TextInput";
-export { TextInput };
+import Toastify from "./component/Toastify";
+export { Toastify };

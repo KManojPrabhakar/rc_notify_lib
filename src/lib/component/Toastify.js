@@ -1,8 +1,8 @@
 
 import React, { Component } from 'react';
-import "./TextInput.scss";
+import "./Toastify.scss";
 import "../../stylesheets/app.css"
-class TextInput extends Component {
+class Toastify extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
@@ -54,4 +54,4 @@ class TextInput extends Component {
 
 
 
-export default TextInput;
+export default Toastify;
